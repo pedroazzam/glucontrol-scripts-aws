@@ -1,0 +1,1 @@
+ pkill -9 -f glucontrolapi-0.0.1-SNAPSHOT.jar
